@@ -1,4 +1,4 @@
 PHP-iTunes-API
 ==============
 
-A super simple API for reading the iTunes content.
+A super simple class for reading the iTunes API.
