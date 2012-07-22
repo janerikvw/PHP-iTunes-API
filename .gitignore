@@ -1,2 +1,4 @@
 fuel/app/logs/*/*/*
 fuel/app/cache/*/*
+
+.DS_Store
