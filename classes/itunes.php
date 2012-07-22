@@ -2,7 +2,11 @@
 /**
  * iTunes class
  *
- * Search for the config and the returned results to {@url http://www.apple.com/itunes/affiliates/resources/documentation/itunes-store-web-service-search-api.html}
+ *
+ * @author Jan Erik van Woerden <info@janerik.eu>
+ * @link https://github.com/ijanerik/PHP-iTunes-API
+ * @license http://opensource.org/licenses/gpl-license.php GNU Public License
+ * @see http://www.apple.com/itunes/affiliates/resources/documentation/itunes-store-web-service-search-api.htm For more information about the configuration
  */
 class iTunes
 {
