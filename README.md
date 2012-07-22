@@ -25,4 +25,5 @@ Get the albums of the artist with the id "909253".
 	?>
 
 For all the config information look at the iTunes API page:
+
 http://www.apple.com/itunes/affiliates/resources/documentation/itunes-store-web-service-search-api.html
