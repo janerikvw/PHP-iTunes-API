@@ -7,12 +7,20 @@ A super simple class for reading the iTunes API.
 A simple search example
 ----------------------
 This example gets the results by searching for "Maroon5" in the iTunes store of the Netherlands. The results are stored in an array.
+<<<<<<< HEAD
 
 	<?php
 	$results = iTunes::search('Maroon 5', array(
 	    'country' => 'NL'
 	))->results;
 	?>
+=======
+    <?php
+    $results = iTunes::search('Maroon 5', array(
+        'country' => 'NL'
+    ))->results;
+    ?>
+>>>>>>> Improve layout
 
 A simple lookup example
 ----------------------
